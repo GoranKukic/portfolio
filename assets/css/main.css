@@ -3918,14 +3918,22 @@ input, select, textarea {
 
 		}
 		
-		.btn {
-			border: solid 2px;
-				}
+
 		.btn:hover {
 				border-color: #18bfef !important;
 				color: #18bfef !important;
 			}
+		#seeLive {
+			display: block;
+			float: left;
+			border: solid 2px;
+			}
 
+		#sourceCide {
+			display: block;
+			float: right;
+			border: solid 2px;
+			}
 
 /* Footer */
 
