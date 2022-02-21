@@ -3918,7 +3918,9 @@ input, select, textarea {
 
 		}
 		
-		.btn {}
+		.btn {
+			border: solid 2px;
+				}
 		.btn:hover {
 				border-color: #18bfef !important;
 				color: #18bfef !important;
