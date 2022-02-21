@@ -3921,6 +3921,8 @@ input, select, textarea {
 			font: inherit;
 			font-size: 0.75rem;
 			margin-top: -0.75rem;
+			display: flex; 
+                	justify-content: space-around; 
 			}
 
 		.btn:hover {
@@ -3928,14 +3930,10 @@ input, select, textarea {
 				color: #18bfef !important;
 			}
 		#seeLive {
-			display: block;
-			float: left;
 			border: solid 2px;
 			}
 
 		#sourceCode {
-			display: block;
-			float: right;
 			border: solid 2px;
 			}
 
