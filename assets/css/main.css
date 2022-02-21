@@ -3917,7 +3917,11 @@ input, select, textarea {
 			}
 
 		}
-		
+		.btn {
+			font: inherit;
+			font-size: .075rem;
+			margin-top: -0.75rem;
+			}
 
 		.btn:hover {
 				border-color: #18bfef !important;
@@ -3929,7 +3933,7 @@ input, select, textarea {
 			border: solid 2px;
 			}
 
-		#sourceCide {
+		#sourceCode {
 			display: block;
 			float: right;
 			border: solid 2px;
