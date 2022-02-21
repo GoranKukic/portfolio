@@ -3917,6 +3917,13 @@ input, select, textarea {
 			}
 
 		}
+		
+		.btn {}
+		.btn:hover {
+				border-color: #18bfef !important;
+				color: #18bfef !important;
+			}
+
 
 /* Footer */
 
