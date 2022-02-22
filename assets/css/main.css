@@ -3917,25 +3917,34 @@ input, select, textarea {
 			}
 
 		}
-		/*.btn {
-			font: inherit;
-			font-size: 0.75rem;
-			margin-top: -0.75rem;
-			display: flex; 
-                	justify-content: space-around; 
-			}
-
+		.btn {
+  			font: inherit;
+ 			font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  			font-size: 1rem;
+ 			text-transform: uppercase;
+  			border: solid 3px;
+  			display: inline-block;
+  			justify-content: space-around;
+		     }
 		.btn:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
-			}
+  			    border-color: #18bfef !important;
+  			    color: #18bfef !important;
+			   }
 		#seeLive {
-			border: solid 2px;
-			}
-
+ 			   width: 170px;
+  			   height: auto;
+  			   text-align: center;
+ 		           margin-right: 5px;
+  			   margin-left: 5px;
+			 }
 		#sourceCode {
-			border: solid 2px;
-			}*/
+ 			      width: 170px;
+  			      height: auto;
+  			      text-align: center;
+ 			      margin-top: 10px;
+  			      margin-left: 5px;
+  			      margin-right: 5px;
+			    }
 
 /* Footer */
 
